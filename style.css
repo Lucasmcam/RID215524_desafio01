@@ -1,0 +1,95 @@
+*{
+    font-family: 'inter';
+    margin: 0px;
+}
+
+#menu-superior{
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 75px;
+}
+
+#titulo-menu-superior{
+    font-size: 60px;
+    margin-top: 100px;
+    text-align: left;
+}
+
+#texto-menu-superior{
+    font-size: 20px;
+}
+
+#menu-informacional{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background-color: #F9F9F9;
+    padding: 50px;
+}
+
+.partes-informacional{
+    margin: 50px 0px 25px 125px;
+}
+
+
+#secao-imagem{
+    padding: 75px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto
+}
+
+#titulo-secao-imagem{
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+#texto-secao-imagem{
+    font-size: 25px;
+}
+
+#imagem{
+    padding-left: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#secao-final{
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 75px;
+    text-align: center;
+}
+
+input{
+    width: 450px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    color: #0000004D;
+    background-color: #FFFFFF;
+   padding-left: 15px;
+   font-weight: bold;
+}
+
+button{
+    width: 225px;
+    height: 50px;
+    background-color: #C07212;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: 0px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-family: 'raleway';
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
